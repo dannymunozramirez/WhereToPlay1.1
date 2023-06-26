@@ -1,0 +1,7 @@
+Project created with 
+npx react-native@latest init AwesomeProject
+
+then to run it
+Open WhereToPlay/ios/WhereToPlay.xcworkspace in Xcode or run "xed -b ios"
+    • Hit the Run button
+
